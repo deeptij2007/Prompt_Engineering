@@ -1,2 +1,2 @@
 # Prompt_Engineering
-Prompt Engineering research
+This repository contains notebooks supporting three part articles on prompt engineering
